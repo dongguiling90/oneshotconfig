@@ -1,0 +1,7 @@
+若库使用过程中报错，
+请添加以下动态库
+SystemConfiguration.framework
+AVFoundation.framework
+foundation.framwork
+CFNetwork.framework
+QuartzCore.framework
